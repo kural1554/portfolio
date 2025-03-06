@@ -1,0 +1,13 @@
+INDUSTRIES
+Banking,Finance & Insurance
+Government/Public Sector
+Fintech,IT Products & Services
+Engineering & Manufacturing
+Telecommunications
+Healthcare and Lifesciences
+Biotechnology and Pharmaceuticals
+Renewable Energy
+Electronics & Semiconductor
+Logistics
+Energy & Utilities
+Process Automation
